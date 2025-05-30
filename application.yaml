@@ -1,0 +1,9 @@
+model: 'llama3' 
+embedding_model : 'llama3'
+collection_name: "rag-chroma"
+GOOGLE_CSE_ID: "0773492fb924a4ce2"
+GOOGLE_API_KEY: "AIzaSyD2NCEp5KPNRIrQKTJ8F6SjOPJkui1bQ7I"
+ollama_url: "http://localhost:11434"
+#Used for evaluation
+OPENAI_API_KEY: ""
+OPENAI_ORGANIZATION: ""
